@@ -6,7 +6,7 @@ Cursos Aprobados:
 
 # Mis Cursos en Data Science e Inteligencia Artificial
 
-[Enlace a mi perfil]((https://platzi.com/p/roysteve.nc/))
+Enlace a mi perfil: [(https://platzi.com/p/roysteve.nc/)]
 
 A continuación, se presenta una lista de los cursos que he completado en mi camino hacia el aprendizaje en Data Analyst, Data Science e Inteligencia Artificial:
 
